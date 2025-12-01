@@ -1,0 +1,368 @@
+{
+  "site": {
+    "width_m": 1000,
+    "height_m": 1000
+  },
+  "blocks": [
+    {
+      "id": "B00",
+      "coords": [
+        0,
+        833.33,
+        166.67,
+        1000
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B01",
+      "coords": [
+        166.67,
+        833.33,
+        333.34,
+        1000
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B02",
+      "coords": [
+        333.34,
+        833.33,
+        500.01,
+        1000
+      ],
+      "land_use": "Green"
+    },
+    {
+      "id": "B03",
+      "coords": [
+        500.01,
+        833.33,
+        666.68,
+        1000
+      ],
+      "land_use": "Green"
+    },
+    {
+      "id": "B04",
+      "coords": [
+        666.68,
+        833.33,
+        833.35,
+        1000
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B05",
+      "coords": [
+        833.35,
+        833.33,
+        1000,
+        1000
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B10",
+      "coords": [
+        0,
+        666.66,
+        166.67,
+        833.33
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B11",
+      "coords": [
+        166.67,
+        666.66,
+        333.34,
+        833.33
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B12",
+      "coords": [
+        333.34,
+        666.66,
+        500.01,
+        833.33
+      ],
+      "land_use": "Green"
+    },
+    {
+      "id": "B13",
+      "coords": [
+        500.01,
+        666.66,
+        666.68,
+        833.33
+      ],
+      "land_use": "Green"
+    },
+    {
+      "id": "B14",
+      "coords": [
+        666.68,
+        666.66,
+        833.35,
+        833.33
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B15",
+      "coords": [
+        833.35,
+        666.66,
+        1000,
+        833.33
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B20",
+      "coords": [
+        0,
+        499.99,
+        166.67,
+        666.66
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B21",
+      "coords": [
+        166.67,
+        499.99,
+        333.34,
+        666.66
+      ],
+      "land_use": "Public"
+    },
+    {
+      "id": "B22",
+      "coords": [
+        333.34,
+        499.99,
+        500.01,
+        666.66
+      ],
+      "land_use": "Public"
+    },
+    {
+      "id": "B23",
+      "coords": [
+        500.01,
+        499.99,
+        666.68,
+        666.66
+      ],
+      "land_use": "Public"
+    },
+    {
+      "id": "B24",
+      "coords": [
+        666.68,
+        499.99,
+        833.35,
+        666.66
+      ],
+      "land_use": "Public"
+    },
+    {
+      "id": "B25",
+      "coords": [
+        833.35,
+        499.99,
+        1000,
+        666.66
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B30",
+      "coords": [
+        0,
+        333.32,
+        166.67,
+        499.99
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B31",
+      "coords": [
+        166.67,
+        333.32,
+        333.34,
+        499.99
+      ],
+      "land_use": "Public"
+    },
+    {
+      "id": "B32",
+      "coords": [
+        333.34,
+        333.32,
+        500.01,
+        499.99
+      ],
+      "land_use": "Commercial"
+    },
+    {
+      "id": "B33",
+      "coords": [
+        500.01,
+        333.32,
+        666.68,
+        499.99
+      ],
+      "land_use": "Commercial"
+    },
+    {
+      "id": "B34",
+      "coords": [
+        666.68,
+        333.32,
+        833.35,
+        499.99
+      ],
+      "land_use": "Public"
+    },
+    {
+      "id": "B35",
+      "coords": [
+        833.35,
+        333.32,
+        1000,
+        499.99
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B40",
+      "coords": [
+        0,
+        166.65,
+        166.67,
+        333.32
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B41",
+      "coords": [
+        166.67,
+        166.65,
+        333.34,
+        333.32
+      ],
+      "land_use": "Public"
+    },
+    {
+      "id": "B42",
+      "coords": [
+        333.34,
+        166.65,
+        500.01,
+        333.32
+      ],
+      "land_use": "Commercial"
+    },
+    {
+      "id": "B43",
+      "coords": [
+        500.01,
+        166.65,
+        666.68,
+        333.32
+      ],
+      "land_use": "Commercial"
+    },
+    {
+      "id": "B44",
+      "coords": [
+        666.68,
+        166.65,
+        833.35,
+        333.32
+      ],
+      "land_use": "Public"
+    },
+    {
+      "id": "B45",
+      "coords": [
+        833.35,
+        166.65,
+        1000,
+        333.32
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B50",
+      "coords": [
+        0,
+        0,
+        166.67,
+        166.65
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B51",
+      "coords": [
+        166.67,
+        0,
+        333.34,
+        166.65
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B52",
+      "coords": [
+        333.34,
+        0,
+        500.01,
+        166.65
+      ],
+      "land_use": "Green"
+    },
+    {
+      "id": "B53",
+      "coords": [
+        500.01,
+        0,
+        666.68,
+        166.65
+      ],
+      "land_use": "Green"
+    },
+    {
+      "id": "B54",
+      "coords": [
+        666.68,
+        0,
+        833.35,
+        166.65
+      ],
+      "land_use": "Residential"
+    },
+    {
+      "id": "B55",
+      "coords": [
+        833.35,
+        0,
+        1000,
+        166.65
+      ],
+      "land_use": "Residential"
+    }
+  ]
+}
