@@ -1,7 +1,7 @@
 from neo4j import GraphDatabase
 
-URI = "neo4j+s://f6402eb8.databases.neo4j.io"
-AUTH = ("neo4j", "AZoxdeEQgaHZZYtjc8sWsTu8TK_ou7gvgE55RoTIx18")
+URI = "neo4j+s://4a80fd07.databases.neo4j.io"
+AUTH = ("neo4j", "9NFpy2I1fyMBJkPlZm1RHiXJrZvGdGEE7i9qlYinwjA")
 
 print("🔹 드라이버 생성 중...")
 
