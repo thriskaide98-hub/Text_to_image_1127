@@ -15,9 +15,9 @@ from neo4j import GraphDatabase
 # ----------------------------
 # 1) Neo4j 접속 설정  (test_neo4j_connection.py 와 동일하게)
 # ----------------------------
-URI  = "neo4j+s://f6402eb8.databases.neo4j.io"  # <- 네 URI
+URI = "neo4j+s://4a80fd07.databases.neo4j.io"  # <- 네 URI
 USER = "neo4j"
-PWD  = "AZoxdeEQgaHZZYtjc8sWsTu8TK_ou7gvgE55RoTIx18"                      # <- 네 비번
+PWD  = "9NFpy2I1fyMBJkPlZm1RHiXJrZvGdGEE7i9qlYinwjA"                      # <- 네 비번
 
 driver = GraphDatabase.driver(URI, auth=(USER, PWD))
 
